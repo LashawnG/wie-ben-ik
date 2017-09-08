@@ -1,0 +1,32 @@
+header {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	padding: 1em;
+	color: black;
+	text-align: center;
+    background-color: lightgrey;
+    opacity: 0.5;
+    border-style: solid;
+    border-color: black;
+
+}
+
+body {
+	text-align: center;
+	background-image: url("school-back.jpg");
+	color: white;
+	background-attachment: fixed;
+	text-shadow: 2px 2px #4e4d4d
+
+}
+
+ p {
+ 	position: relative;
+ 	left: 570px;
+ 	max-width: 300px;
+ 	font-size: 120%;	
+ }
+
+ul {
+	text-align: center;
+}
